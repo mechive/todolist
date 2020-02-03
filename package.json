@@ -1,0 +1,23 @@
+{
+  "name": "tortuga",
+  "version": "1.0.0",
+  "description": "A website theme",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickbeck/tortuga.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickbeck/tortuga/issues"
+  },
+  "homepage": "https://github.com/mickbeck/tortuga#readme"
+}
